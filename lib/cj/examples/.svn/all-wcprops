@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/cloudengine/!svn/ver/14194/mps-client/examples
+END
+generate_and_send_user_password.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/cloudengine/!svn/ver/14180/mps-client/examples/generate_and_send_user_password.rb
+END
+change_password.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cloudengine/!svn/ver/14180/mps-client/examples/change_password.rb
+END
+login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/cloudengine/!svn/ver/14127/mps-client/examples/login.rb
+END
+logout.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/cloudengine/!svn/ver/14116/mps-client/examples/logout.rb
+END
+set_user_settings.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cloudengine/!svn/ver/14180/mps-client/examples/set_user_settings.rb
+END
+add_user_generating_password.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/cloudengine/!svn/ver/14180/mps-client/examples/add_user_generating_password.rb
+END
+set_user_external_settings.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/cloudengine/!svn/ver/14180/mps-client/examples/set_user_external_settings.rb
+END
+add_address_to_policy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cloudengine/!svn/ver/14156/mps-client/examples/add_address_to_policy.rb
+END
+add_domain.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/cloudengine/!svn/ver/14139/mps-client/examples/add_domain.rb
+END
+recover_user_password.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cloudengine/!svn/ver/14180/mps-client/examples/recover_user_password.rb
+END
+get_allowed_user_roles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cloudengine/!svn/ver/14180/mps-client/examples/get_allowed_user_roles.rb
+END
+change_own_password.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cloudengine/!svn/ver/14180/mps-client/examples/change_own_password.rb
+END
+get_user_settings.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cloudengine/!svn/ver/14180/mps-client/examples/get_user_settings.rb
+END
+add_address.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cloudengine/!svn/ver/14156/mps-client/examples/add_address.rb
+END
+validate_user_target.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cloudengine/!svn/ver/14180/mps-client/examples/validate_user_target.rb
+END
+delete_user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cloudengine/!svn/ver/14180/mps-client/examples/delete_user.rb
+END
+add_user_choosing_password.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/cloudengine/!svn/ver/14194/mps-client/examples/add_user_choosing_password.rb
+END
+add_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/cloudengine/!svn/ver/14138/mps-client/examples/add_group.rb
+END

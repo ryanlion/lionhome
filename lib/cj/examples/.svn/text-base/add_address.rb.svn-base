@@ -1,0 +1,27 @@
+require 'anubisnetwork-client'
+require 'json'
+
+pp "Testing add address"
+
+pp "acquire session"
+user_name="Appcara"
+password="B8KZpPG8XotN"
+keep_session=true
+session = AnubisNetwork::Client.authentication(user_name, password, keep_session)
+pp session
+
+pp "retrieve available domains"
+domains = AnubisNetwork::Client.list_domains(session)
+domain_hash = JSON.parse(domains)
+
+
+pp "add address"
+params = {}
+params[:session] = session
+params[:domain_id] = domain_hash["list_domainsResponse"]["return"]["domain_headers"].last["id"]
+params[:address] = ["abc@amds.com","abcd@amds.com"]
+params[:import_type] = "append"
+result_address = AnubisNetwork::Client.add_address(params)
+
+pp "add address result: #{result_address}"
+
