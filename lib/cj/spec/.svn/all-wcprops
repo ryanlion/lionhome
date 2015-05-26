@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/cloudengine/!svn/ver/14187/mps-client/spec
+END
+mps_spec_user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/cloudengine/!svn/ver/14187/mps-client/spec/mps_spec_user.rb
+END
+mps_spec_policy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cloudengine/!svn/ver/14176/mps-client/spec/mps_spec_policy.rb
+END
+mps_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/cloudengine/!svn/ver/14156/mps-client/spec/mps_spec.rb
+END
+mps_spec_filter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cloudengine/!svn/ver/14176/mps-client/spec/mps_spec_filter.rb
+END
